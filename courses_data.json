@@ -4,17 +4,14 @@
       {
         “type”: "Balcony",
         “quantity”: 12,
-        “price”: 100000
       },
       {
          “type”: "Lower Level",
          “quantity”: 20,
-         “price”: 700
       },
       {
          “type”: "CourtSide",
          “quantity”: 15,
-         “price”: 1500
       }
    ]
 }
